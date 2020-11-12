@@ -3,8 +3,13 @@ version: '3.4'
 services:
   jenkins:
     image: jenkins/jenkins
+    environment: 
+      - DOCKER_OPTS="-H tcp://0.0.0.0:2376 -H unix:///var/run/docker.sock"
     volumes:
       - ./jenkins_home:/var/jenkins_home
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /usr/local/bin/docker:/usr/bin/docker
     ports:
       - 8080:8080
       - 50000:50000
+      - 2376:2375
