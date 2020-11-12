@@ -2,9 +2,11 @@ version: '3.4'
 
 services:
   jenkins:
-    image: jenkins/jenkins
+    user: root
+    # image: jenkins/jenkins
+    image: jenkinsci/blueocean
     environment: 
-      - DOCKER_OPTS="-H tcp://0.0.0.0:2376 -H unix:///var/run/docker.sock"
+      # - DOCKER_OPTS="-H tcp://0.0.0.0:2376 -H unix:///var/run/docker.sock"
     volumes:
       - ./jenkins_home:/var/jenkins_home
       - /var/run/docker.sock:/var/run/docker.sock
