@@ -13,5 +13,5 @@ services:
       - /usr/local/bin/docker:/usr/bin/docker
     ports:
       - 8080:8080
-      - 50000:50000
-      - 2376:2375
+      # - 50000:50000
+      # - 2376:2375
