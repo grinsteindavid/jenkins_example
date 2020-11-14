@@ -1,6 +1,5 @@
 # Ignore
-jenkins_home
+jenkins_home/*
 
-
-#Allow
-!jenkins_home/jobs/*
+# Allow
+!jenkins_home/jobs

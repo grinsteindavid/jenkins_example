@@ -1,0 +1,20 @@
+commit 85b9a4259daa4f1b767ab15f46968f31756e4ffe
+tree 3dbbbaaa7f48799fc7055581cb1ca35bfcffaed3
+parent 57569ab4c9981f116809237ddfac9187059bb815
+author david <david@davids-MacBook-Pro.local> 2020-11-14 18:46:23 -0300
+committer david <david@davids-MacBook-Pro.local> 2020-11-14 18:46:23 -0300
+
+    bugfix name
+
+
+:100644 100644 77aa216b9c8ac177e66190d9ad3dc4357b48675b 663e7484a9598cae12e0b2f11e4d48afce582fd1 M	Jenkinsfile
+commit 57569ab4c9981f116809237ddfac9187059bb815
+tree c87ee14f613aabca373956892eaba0210a89bff9
+parent dab9300ed55ca9dd08c1ecb5c7aaf932072ad9c3
+author david <david@davids-MacBook-Pro.local> 2020-11-14 18:41:35 -0300
+committer david <david@davids-MacBook-Pro.local> 2020-11-14 18:41:35 -0300
+
+    testing commit ci/cd
+
+
+:100644 100644 cfde99cdf91d839c3274c73de7d594b9353cf5c1 7b56c0a912e6c121c0a8ab3e0567549e0a2307ec M	index.html

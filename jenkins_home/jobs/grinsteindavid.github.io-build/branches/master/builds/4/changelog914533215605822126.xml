@@ -1,0 +1,10 @@
+commit dab9300ed55ca9dd08c1ecb5c7aaf932072ad9c3
+tree 56afc092d5256d8c5fa237ae1a04f81034e7b44d
+parent 175e685ea5bad91f4ba7062c510b8e9e17cb16bf
+author david <david@davids-MacBook-Pro.local> 2020-11-14 18:21:37 -0300
+committer david <david@davids-MacBook-Pro.local> 2020-11-14 18:21:37 -0300
+
+    docker build and docker service
+
+
+:100644 100644 adba31aa544c5176e7884381d3df36e4be823524 77aa216b9c8ac177e66190d9ad3dc4357b48675b M	Jenkinsfile

@@ -1,0 +1,10 @@
+commit 175e685ea5bad91f4ba7062c510b8e9e17cb16bf
+tree b448d12d05cc1ce8e776046de35c5566effeb041
+parent c8072d17eb0abe678f3dfcdd904b7800cc3610cb
+author david <david@davids-MacBook-Pro.local> 2020-11-14 17:32:17 -0300
+committer david <david@davids-MacBook-Pro.local> 2020-11-14 17:32:17 -0300
+
+    working jenkinsfile
+
+
+:100644 100644 7ba3339f9df8e261196175854d49941344f482ff adba31aa544c5176e7884381d3df36e4be823524 M	Jenkinsfile

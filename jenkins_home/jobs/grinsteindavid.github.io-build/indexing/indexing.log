@@ -1,0 +1,36 @@
+Started by user [8mha:////4MQEVhDnZw1Txw8kR4VZsmU11JIRtzgX5IH8QdPT4ErhAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+[Sat Nov 14 21:46:44 UTC 2020] Starting branch indexing...
+[8mha:////4Osf43sR80fZUqX78frOXjxGKxF0qRiXdCgtH9hG98MtAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTpiZ3dMwCwFcxPjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4ERSv8MpgW4ju3kICRycuH92H3rd5CRm1SSiGZHh5mzFAAAApx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhQL2GwyigpKSi20tdPzyzJKE0C6srVTwcaVVySmpmXkliWmYLG1YMqzMwHAP/feaS/AAAA[0mgrinsteindavid/grinsteindavid.github.io
+
+  Checking branches...
+[8mha:////4GnT/pxcuuzNUd6lixZkSuvhNk0X24hJXOG11XUf77ZpAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTpiZ39twGewHXEjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 51 remaining (14 under budget). Next quota of 60 in 35 min
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4GPgu1MWzecwxQzuOP7oeK0Ui7HLzaQdMErnOh9wr0RaAAAAsh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgK2FwyygpKSi20tdPzyzJKE0C6srVTwcaVVySmpmXkliWmYLG1YMqzMzXLylKTdXPTQTKFQEAFMqkQcsAAAA=[0mmaster
+[8mha:////4P0vlEVJ6gW9MzNBSzVoRGFa8OCrh0wv0o6Da2EFxDsxAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTpiZ0TTwMAJe+DDY4AAAA=[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 51 remaining (14 under budget). Next quota of 60 in 35 min
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: master (dab9300ed55ca9dd08c1ecb5c7aaf932072ad9c3 → 85b9a4259daa4f1b767ab15f46968f31756e4ffe)
+Scheduled build for branch: master
+[8mha:////4LFw1Su98fxJPa1bFUey3+rYydzDxh7vAutdDaMyR4xWAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTpiZ1T5QHsPFHojgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 50 remaining (13 under budget). Next quota of 60 in 35 min
+
+    Checking branch [8mha:////4EvTQxGfg4ewwQQurUr8f/9WBCROySm+6l70QXTfsWzfAAAAth+LCAAAAAAAAP9djLENwjAURD9BUFBSImaIoaEApaIhKKJhgkCM/cF8W/ZPlKzBGtAwBOOwA0Gh4pq7k+7e4w2D4GGqyyJYio+WgjUy3jROeoN02VmWi+T+TG7uFUGUwtBIUqwz6JfeMIyzc17lwuSkxJ49klrVHiZ/uHXnXxh06kUAtWvDiGGrmV1YCqGQdXloX1ehWlRgiVTkFRZ/Nf4N0Qr2UoqUTkjIzXz2Aelk/SjPAAAA[0mInfinity10
+[8mha:////4Jp2+m+0ELLWeh/a0JHUatX0SMWmxhFNcgjNSrHjREpHAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTpiZ1TvwAAHAeJ344AAAA=[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 50 remaining (13 under budget). Next quota of 60 in 35 min
+
+    Checking branch [8mha:////4I0LHdxOMT2KvLKryXgAi9/Qr/WLsE9Zvj1hQbUQLjJQAAAAsx+LCAAAAAAAAP9djLENwjAURD9BQE+JmCEfGoqgVBSAiGiYwGDLNhjbsn+isAZrQMMQjMMOBIUq19yddPeeHxjEAFNV8uhsenI2OiPSzc2LYLS97B2JRf545Xf/TiDZwtAIK0kV0C+DIRgXZ1YxNMxKPFDQVi7rAJMObtX6DwateglA7ZswIlgrIh8zRKlJlcfmdUXZoCIJbTmrNO/U9D/UDikIgTsWeJzPvhKK/r7MAAAA[0mKards10
+[8mha:////4J2mjeoZEvxBO5eCdG5k9y89j33SPVsUZSkkunZFujDoAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTpiZ3T5gAAtb3Nt44AAAA=[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 50 remaining (13 under budget). Next quota of 60 in 35 min
+
+  3 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining grinsteindavid/grinsteindavid.github.io
+
+[Sat Nov 14 21:46:47 UTC 2020] Finished branch indexing. Indexing took 3 sec
+Finished: SUCCESS
